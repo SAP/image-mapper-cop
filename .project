@@ -1,0 +1,19 @@
+admissionWebhookRuntimeVersion: v0.1.0
+codeGeneratorVersion: v0.28.1
+controllerRuntimeVersion: v0.16.0
+controllerToolsVersion: v0.13.0
+envtestKubernetesVersion: 1.27.1
+goModule: github.com/sap/image-mapper-cop
+goVersion: "1.21"
+groupName: operator.kyma-project.io
+groupVersion: v1alpha1
+image: image-mapper-cop:latest
+kind: ImageMapper
+kubernetesVersion: v0.28.1
+mutatingWebhookEnabled: false
+operatorName: image-mapper-cop.cs.sap.com
+owner: SAP SE or an SAP affiliate company and image-mapper-cop contributors
+resource: imagemappers
+spdxLicenseHeaders: true
+validatingWebhookEnabled: false
+version: v0.1.9

@@ -1,0 +1,6 @@
+apiVersion: v2
+name: image-mapper-cop
+description: A Helm chart for https://github.com/sap/image-mapper-cop
+type: application
+version: 0.1.0
+appVersion: v0.1.0
