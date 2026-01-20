@@ -3,6 +3,7 @@ name: Build artifacts
 on:
   push:
     branches:
+    - renovate/minor-deps-golang
     - main
 
   pull_request:
