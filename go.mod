@@ -1,6 +1,6 @@
 module github.com/sap/image-mapper-cop
 
-go 1.27.1
+go 1.27.2
 
 require (
 	github.com/pkg/errors v0.9.1
